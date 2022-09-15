@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "express": "^4.18.1",
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.3.3"
+  },
+  "name": "employee-infographic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kidd93/Employee-Infographic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kidd93/Employee-Infographic/issues"
+  },
+  "homepage": "https://github.com/kidd93/Employee-Infographic#readme",
+  "description": ""
+}
